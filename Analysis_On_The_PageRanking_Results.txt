@@ -1,0 +1,64 @@
+The top 10 pages in the page ranking are as mentioned below:
+-----------------------------------------------------------
+Experimental Home Page for Lemur Search
+The Economist: Copyright Notice
+Security Assurance Requirements
+Web Development Team
+Evening News
+List of company names
+Important information and Disclaimer
+General Disclaimer
+List of deveoper names
+Milton's homepage
+
+Based on the above information its clear that these turn out to be high ranked pages. 
+It is obvious that most of the pages will have their links pointed to pages such as
+Home page, copyright pages, Disclaimers and List of company names.
+Although there are some pages which doesnt look that important, as Milton's homepage,
+but maybe it is important for this site, as many important pages might have an outlink
+to the Milton's homepage.
+There are some pages which may not be as important for the user while searching, like
+WebDevelopment Team, List of developer names, Copyright Notice. But then again, these 
+pages will have numerous links to their page, which make them high ranked.
+Pages like Security Assurance Requirements, Evening News and Important information 
+& Disclaimer may be pretty useful for the user to look into. It may contain what the 
+user was actually looking for.
+
+The top 10 pages with highest inlinks 
+-------------------------------------
+Experimental Home Page for Lemur Search
+Environmental News-State
+DRCNet Online Library of Drug Policy 
+Sports Gate HomePage
+The Economist: Copyright Notice
+Skeptics Society Message Board
+WWWBoard Frequently Asked Questions and Answers
+Some List of trademarks
+General Disclaimer
+A site for the gay, lesbian, bisexual and transgender community
+
+For the top 10 inlinks, we have the same highest page rank as the highest page with inlinks.
+This makes sense that pages with highest inlinks may have the highest page rank, but then 
+again, a page can be referenced by thousands of unimportant links it will not make it a high
+ranked page. 
+In this case its a coincidence that both the highest page rank is the highest page with inlinks
+as well. This is not neessary to be the same case always.
+
+"It has to be referenced by important links to make it a high ranked page."
+
+For pages like "Environmental News State" & "DRCNet Online Library of Drug Policy" have a high
+count of inlinks, but they might have been referenced by relatively low ranked pages as 
+compared to "The Economist: Copyright Notice" & "General Disclaimer" which have relatively low
+inlinks but they have been linked by relatively high ranked pages.
+
+If a user will try to search for Lemur webpages, its highly probable that he will get the 
+homepage as its first result, and the other mentioned high ranked pages in their list of 
+results.
+But its obvious that the user would not be interested in page results like 
+"Copyright Notice" and "List of Developer's name".
+These pages might be of no interest to the user as they might not be looking for these details.
+
+So for conclusion, the page rank does depend on the number of inlinks, and recursively
+their page ranks. This obviously does not mean that the user will be happy with the highest 
+ranked page, but refining on this list is much easier than using a list of pages which 
+were ranked without this algorithm.

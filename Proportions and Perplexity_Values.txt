@@ -1,0 +1,130 @@
+Total No. of pages 183811
+
+pages with no out-links 66175
+
+*****************************
+proportion of pages with no out-links 0.360016538727
+*****************************
+Pages which had less ranking initially 144497
+
+*****************************
+Proportion of Pages with initially less ranking 0.786117261753
+*****************************
+List_zero_in_links  14350
+
+*****************************
+Proportion of zero in links to total pages 0.0780693212049
+*****************************
+
+*****************************
+Convergence No. 1  Perplexity value  1.0 
+
+Convergence No. 2  Perplexity value  79669.9231957 
+
+Convergence No. 3  Perplexity value  86267.6741024 
+
+Convergence No. 4  Perplexity value  72260.3536067 
+
+Convergence No. 5  Perplexity value  75132.4076593 
+
+Convergence No. 6  Perplexity value  68932.6029131 
+
+Convergence No. 7  Perplexity value  71197.8334108 
+
+Convergence No. 8  Perplexity value  67782.5377845 
+
+Convergence No. 9  Perplexity value  69379.5774141 
+
+Convergence No. 10  Perplexity value  67383.7075589 
+
+Convergence No. 11  Perplexity value  68477.8018834 
+
+Convergence No. 12  Perplexity value  67207.1847963 
+
+Convergence No. 13  Perplexity value  68004.1538837 
+
+Convergence No. 14  Perplexity value  67138.9553795 
+
+Convergence No. 15  Perplexity value  67708.2593908 
+
+Convergence No. 16  Perplexity value  67131.6639346 
+
+Convergence No. 17  Perplexity value  67524.4769137 
+
+Convergence No. 18  Perplexity value  67132.1110911 
+
+Convergence No. 19  Perplexity value  67413.7101219 
+
+Convergence No. 20  Perplexity value  67138.8498145 
+
+Convergence No. 21  Perplexity value  67339.825439 
+
+Convergence No. 22  Perplexity value  67149.7850062 
+
+Convergence No. 23  Perplexity value  67290.830658 
+
+Convergence No. 24  Perplexity value  67158.762079 
+
+Convergence No. 25  Perplexity value  67259.2257454 
+
+Convergence No. 26  Perplexity value  67166.0293807 
+
+Convergence No. 27  Perplexity value  67237.7802261 
+
+Convergence No. 28  Perplexity value  67172.3205073 
+
+Convergence No. 29  Perplexity value  67223.127439 
+
+Convergence No. 30  Perplexity value  67177.1443729 
+
+Convergence No. 31  Perplexity value  67213.3194518 
+
+Convergence No. 32  Perplexity value  67180.7511381 
+
+Convergence No. 33  Perplexity value  67206.5975774 
+
+Convergence No. 34  Perplexity value  67183.5491212 
+
+Convergence No. 35  Perplexity value  67201.9331033 
+
+Convergence No. 36  Perplexity value  67185.6323888 
+
+Convergence No. 37  Perplexity value  67198.7420931 
+
+Convergence No. 38  Perplexity value  67187.1593955 
+
+Convergence No. 39  Perplexity value  67196.5257185 
+
+Convergence No. 40  Perplexity value  67188.2983336 
+
+Convergence No. 41  Perplexity value  67194.9793762 
+
+Convergence No. 42  Perplexity value  67189.1321605 
+
+Convergence No. 43  Perplexity value  67193.9036297 
+
+Convergence No. 44  Perplexity value  67189.740378 
+
+Convergence No. 45  Perplexity value  67193.1507383 
+
+Convergence No. 46  Perplexity value  67190.1847357 
+
+Convergence No. 47  Perplexity value  67192.621374 
+
+Convergence No. 48  Perplexity value  67190.5078833 
+
+Convergence No. 49  Perplexity value  67192.250355 
+
+Convergence No. 50  Perplexity value  67190.7423803 
+
+Convergence No. 51  Perplexity value  67191.9887961 
+
+Convergence No. 52  Perplexity value  67190.912902 
+
+Convergence No. 53  Perplexity value  67191.804427 
+
+Convergence No. 54  Perplexity value  67191.036087 
+
+Convergence No. 55  Perplexity value  67191.6743361
+*****************************
+
